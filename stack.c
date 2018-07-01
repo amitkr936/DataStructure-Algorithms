@@ -1,5 +1,7 @@
+
+//Implementation of Stack Data Structure in C Programming
 #include<stdio.h>
-#define MAX 10
+#define MAX 10 
 struct Stk
 {
 	int arr[MAX];
