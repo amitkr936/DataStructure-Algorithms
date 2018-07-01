@@ -1,2 +1,2 @@
 # DataStructure-Algoritms
-DataStructure ans Algoritm Implementations.
+DataStructure and Algorithm Implementations.
