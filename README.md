@@ -1,5 +1,5 @@
 # DataStructure-Algoritms
-Data Structure ans Algoritm Implementations.
+Data Structure and Algoritm Implementations.
 This Repossitory Includes:<br/>
 	&nbsp;1)Linked Lists<br/>
 	&nbsp;2)Stacks<br/>
